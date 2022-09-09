@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_movie">
+        <item>Movie</item>
+        <item>Series</item>
+        <item>Episode</item>
+        <item>Not selected</item>
+    </string-array>
+</resources>
